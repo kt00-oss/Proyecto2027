@@ -1,0 +1,8 @@
+ARCHIVO1.TXT
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla fermentum, magna eu pellentesque vestibulum, elit tellus volutpat elit, at consectetur dolor eros sit amet felis. Donec sed eleifend leo. Nulla varius ligula ipsum, nec tincidunt lorem porta ac. Morbi eleifend ligula a nunc laoreet scelerisque. Nam pellentesque, urna id luctus congue, odio diam malesuada nulla, at lacinia dolor tortor id purus. Proin elementum quam vitae est pretium, sed accumsan sem aliquam. Ut consectetur magna eget ex facilisis sodales. Aliquam elementum lobortis felis, non porta velit lacinia non. Donec leo elit, interdum blandit tempus ac, imperdiet vel orci. Morbi ac mi eros. Donec ligula ex, interdum eget vestibulum fermentum, euismod nec neque.
+
+Y aquí hago una modificación de mi código 
+
+Hago una modificación en la rama Prueba

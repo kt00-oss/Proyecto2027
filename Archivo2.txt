@@ -1,0 +1,7 @@
+ARCHIVO2.TXT
+
+Nullam rhoncus velit lorem, in molestie dolor mattis quis. Nam eleifend velit ipsum, vel efficitur dolor malesuada eget. Cras nec fringilla nulla. Donec interdum ex id commodo imperdiet. Nam finibus arcu at auctor egestas. Curabitur efficitur molestie urna, vitae tincidunt neque commodo non. Ut tempus arcu accumsan, consectetur metus dictum, elementum justo. Nulla ullamcorper elementum massa, nec accumsan nibh vehicula a. Praesent et lacus enim. Integer quis dapibus urna. Cras aliquam nisi non turpis blandit, a tempor felis volutpat. Phasellus molestie est a nulla scelerisque, in euismod turpis ultrices. Fusce in scelerisque justo. Cras sit amet ex sit amet lacus malesuada egestas vitae ac eros.
+
+Y aquí hago la segunda modificación 
+
+Y aquí también modifico el archivo desde la rama Prueba
